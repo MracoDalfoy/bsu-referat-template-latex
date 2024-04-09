@@ -1,0 +1,1 @@
+# bsu-referat-template-latex
